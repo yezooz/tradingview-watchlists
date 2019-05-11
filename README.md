@@ -1,10 +1,13 @@
 # Tradingview Watchlist
 
-Script will let you convert list of companies traded on NASDAQ into a file importable by Tradingview.
+Script will let you convert list of companies traded on NASDAQ, NYSE and AMEX into a file importable by Tradingview.
 
-List of companies can be downloaded directly from [NASDAQ.com](https://www.nasdaq.com/screening/companies-by-industry.aspx?exchange=NASDAQ&render=download).
+List of companies can be downloaded directly from [NASDAQ.com](https://www.nasdaq.com/screening/companies-by-industry.aspx).
 
-[Latest file](https://github.com/yezooz/tradingview-nasdaq-watchlist/blob/master/watchlist_nasdaq.txt) containing 3461 symbols.
+Latest files:
+* [NASDAQ](https://raw.githubusercontent.com/yezooz/tradingview-watchlists/master/watchlist_NASDAQ.txt)
+* [NYSE](https://raw.githubusercontent.com/yezooz/tradingview-watchlists/master/watchlist_NYSE.txt)
+* [AMEX](https://raw.githubusercontent.com/yezooz/tradingview-watchlists/master/watchlist_AMEX.txt)
 
 ## TODO
 
