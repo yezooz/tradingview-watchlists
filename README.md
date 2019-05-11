@@ -9,8 +9,8 @@ List of companies can be downloaded directly from [NASDAQ.com](https://www.nasda
 ## TODO
 
 * [x] NASDAQ
-* [ ] NYSE
-* [ ] AMEX
-* [ ] File per industry
-* [ ] File per region
-* [ ] File per market cap
+* [x] NYSE
+* [x] AMEX
+* [ ] By industry
+* [ ] By region
+* [ ] By market cap
